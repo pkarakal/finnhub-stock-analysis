@@ -97,7 +97,7 @@ __pycache__/
 # Executables
 converter
 main
-cosine_prod_cons
+finnhub_stocks_analysis
 preprocessor
 
 # configured files
